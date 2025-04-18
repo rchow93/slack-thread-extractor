@@ -1,4 +1,3 @@
-Okay, here is a `README.md` file suitable for your `extract-thread.py` script. It explains the purpose, usage, arguments, and expected input/output formats.
 
 ```markdown
 # Slack Thread Extractor for Fine-Tuning
